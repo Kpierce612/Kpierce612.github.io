@@ -1,0 +1,13 @@
+body {
+  background-color: #ffe2bc;
+}
+
+#name {
+  width: 300px;
+  margin: 0 auto;
+  background: gray;
+  text-align: center;
+  background-color: #ffb367;
+  color: #85a392;
+  border: 3px ridge #ff847c;
+}
